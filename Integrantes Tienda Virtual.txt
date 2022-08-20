@@ -17,3 +17,5 @@ SCRUM MASTER:
 
 EJEMPLO:
 Comentario Hecho por Cristian en otra cuenta
+
+PULL REQUEST
